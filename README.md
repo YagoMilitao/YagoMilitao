@@ -1,4 +1,4 @@
-### Hi ! I'm Yago Militão
+### Hi! I'm Yago Militão
 
 <div align="center">
   <a href="https://github.com/YagoMilitao">
