@@ -14,7 +14,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Xd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg">
   <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="UiPath" heigth="40" width="50" src="https://seekvectorlogo.com/uipath-vector-logo-svg/">
+  <img align="center" alt="UiPath" heigth="50" width="70" src="https://github.com/Yagolis/yagolis.github.io/blob/master/css/uipath-vector-logo.svg">
   </div>
   
   # #
