@@ -24,7 +24,7 @@
   <a href="https://www.linkedin.com/in/yagomilitao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
   <div>
-  <a href="https://www.behance.net/yagomilitao" target="_blank"><img src="https://aleen42.github.io/badges/src/behance.svg" target="_blank"></a>
+  <a href="https://www.behance.net/yagomilitao" target="_blank"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
  </div>
 
  <div>
