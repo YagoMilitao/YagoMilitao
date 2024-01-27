@@ -1,9 +1,9 @@
 ### Hi! I'm Yago Militão
 
 <div align="center">
-  <a href="https://github.com/YagoMilitao">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YagoMilitao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YagoMilitao&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/YagoMilitao/github-readme-stats">
+  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=YagoMilitao&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YagoMilitao&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </div> 
   
   <div style="display: inline_block"><br>
@@ -14,6 +14,8 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Xd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg">
   <img align="center" alt="UiPath" heigth="50" width="70" src="https://github.com/Yagolis/yagolis.github.io/blob/master/css/uipath-vector-logo.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
   </div>
   
   # #
@@ -27,7 +29,7 @@
 
  <div>
    
-   ![Snake animation](https://github.com/YagoMilitao/YagoMilitao/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/YagoMilitao/YagoMilitao/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
