@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/YagoMilitao/github-readme-stats">
   <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=YagoMilitao&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YagoMilitao&layout=compact&langs_count=8&card_width=320&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YagoMilitao&layout=compact&langs_count=8&card_width=320&theme=chartreuse-dark" />
 </div> 
   
   <div style="display: inline_block"><br>
