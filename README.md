@@ -33,8 +33,7 @@
  
 </div>
 
-- 🔭 I’m currently working on RPA
-- 🌱 I’m currently learning UX
+- 🔭 I’m currently a FullStack developer
 - 📫 Talk to me: yagoluizmilitao@gmail.com
 
 
